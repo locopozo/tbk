@@ -1,0 +1,20 @@
+@media only screen and (max-width: 600px) {
+  .product {
+    height: 30px;
+  }
+}
+
+.product {
+  width: 366px;
+  height: auto;
+}
+
+.m-b-40 {
+  margin-bottom: 40px;
+}
+
+.hljs,
+.hsljs-subst {
+  background: transparent;
+}
+
